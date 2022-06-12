@@ -1,3 +1,3 @@
 # DemoPostman
-## Simple CRUD operations
+## Simple CRUD operations use PostMan
 ###
